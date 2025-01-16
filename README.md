@@ -17,3 +17,13 @@
 ```
 bash test-pascal.sh
 ```
+
+### 引用
+If you use this code, please cite it:
+```
+@article{xinyutypical,
+  title={Typical Concept-Driven Modality-missing Deep Cross-Modal Retrieval},
+  author={XinYu, XIA and Lei, ZHU and XiuShan, NIE and GuoHua, DONG and HuaXiang, ZHANG},
+  journal={Journal of Computer-Aided Design \& Computer Graphics}
+}
+```
